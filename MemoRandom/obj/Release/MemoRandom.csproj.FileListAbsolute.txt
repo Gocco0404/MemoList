@@ -1,0 +1,12 @@
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\bin\Release\MemoRandom.exe.config
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\bin\Release\MemoRandom.exe
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\bin\Release\MemoRandom.pdb
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.csproj.AssemblyReference.cache
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.InsertForm.resources
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.Properties.Resources.resources
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.SettingForm.resources
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.TopForm.resources
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.csproj.GenerateResource.cache
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.csproj.CoreCompileInputs.cache
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.exe
+C:\Users\Gocco\source\repos\MemoRandom\MemoRandom\obj\Release\MemoRandom.pdb
